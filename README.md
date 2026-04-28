@@ -14,7 +14,7 @@ This project is based on analyzing an online retail dataset to answer key busine
 ---
 
 ## 🛠 Tools & Technologies
-- Excel / Power BI / Tableau  
+- Power BI  
 - Data Cleaning  
 - Data Visualization  
 
